@@ -4,7 +4,7 @@
 # theme = "creative"
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "muuuuuuuuuuのPortfolio Site"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -33,11 +33,11 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "MUUUUUUUUUU P S"
 
 		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
+			about     = "PROFILE"
+			services  = "PORTFOLIO"
 			portfolio = "Portfolio"
 			contact   = "Contact"
 
@@ -45,21 +45,27 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
+		slogan     = "-- SELF INTRODUCTION --"
+		subtitle   = "初めまして！今プログラミングの勉強をしています。主にRubyとrailsの勉強をしています。まだまだ未熟者ですが宜しくお願い致します。"
+
+		# "[Lorem](//google.com)"
+
+		buttonText = "もっと見て貰えると嬉しいです！"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		headline    = "PROFILE"
+		description = "・中村勝也、32歳(61.1.6)、A型、趣味・映画鑑賞・歩く・走る・筋トレ<br><br>・好きなことわざ、虎穴に入らずんば虎子を得ず！、思い立ったが吉日 ならばその日以降は全て凶日！<br><br>・前職は工場勤務9年(班長をしていました)<br><br>・ある日You Tubeでプログラミンに関する動画をみる<br>プログラミングに興味を持ちその日からプログラミング、ITの事を色々調べ、これやっ！って思い1週間後にMac Book Proを購入<br>そしてすぐにプログラミング教室に入塾！勉強に集中したくて2ヶ月後に退社。<br>思ってたより10倍ぐらい難しいが、分からない事を解決出来た時の達成感が<br>今まで仕事をしてきてこんな達成感を味わった事がなく半端なく嬉しい！！<br>1年後の自分にワクワクしながら今も毎日勉強してます！！<br><br>・日々勉強！日々努力！日々成長！この気持ちを忘れずに生きて行きます！！<br><br>"
+
+
+			# [Lorem](//google.com)グーグルに飛べるコード
+		buttonText  = "TOPに戻りますか？出来ればもう少し見てください( ；∀；)↓↓"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "PORTFOLIO"
 
         [[params.services.list]]
             icon = "fa-diamond"
