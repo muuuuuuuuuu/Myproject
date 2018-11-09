@@ -133,10 +133,10 @@ publishDir = "docs"
 		phone = ""
 		email = "muuuuu10uuuuu@icloud.com"
 
-		[params.social]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/muuuuuuuuuu7"
+		# [params.social]
+    # icon = "twitter"
+    # icon_pack = "fab"
+    # link = "https://twitter.com/muuuuuuuuuu7"
 
 
 
