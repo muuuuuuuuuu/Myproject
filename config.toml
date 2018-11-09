@@ -2,11 +2,12 @@
 # languageCode = "en-us"
 # title = "My New Hugo Site"
 # theme = "creative"
-baseurl = "https://example.org/"
+baseurl = "https://muuuuuuuuuu.github.io/Myproject"
 languageCode = "en-us"
 title = "muuuuuuuuuuのPortfolio Site"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+publishDir = "docs"
 
 [params]
 
@@ -121,7 +122,9 @@ googleAnalytics = ""
 
 		[params.aside.button]
 			# text = "Download now"
+			# text = "Download now"
 			# link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			# link = "https://twitter.com/muuuuuuuuuu7"
 
 	# Contact section
 	[params.contact]
@@ -129,6 +132,13 @@ googleAnalytics = ""
 		description = ""
 		phone = ""
 		email = "muuuuu10uuuuu@icloud.com"
+
+		[params.social]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/muuuuuuuuuu7"
+
+
 
 	# Google Maps section
 	# [params.location]
