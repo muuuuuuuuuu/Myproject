@@ -29,7 +29,7 @@ publishDir = "docs"
 	description = "Your description"
 
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	favicon = "mmm.ico"
 
 
 	# Navigation
