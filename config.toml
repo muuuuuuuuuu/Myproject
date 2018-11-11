@@ -61,7 +61,7 @@ publishDir = "docs"
 
 
 			# [Lorem](//google.com)グーグルに飛べるコード
-		buttonText  = "TOP"
+		buttonText  = "TOPに戻りますか？もうすこし見て欲しいです☆"
 
 
 	# Service section
@@ -133,10 +133,10 @@ publishDir = "docs"
 		phone = ""
 		email = "muuuuu10uuuuu@icloud.com"
 
-		# [params.social]
-    # icon = "twitter"
-    # icon_pack = "fab"
-    # link = "https://twitter.com/muuuuuuuuuu7"
+		[params.social]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/muuuuuuuuuu7"
 
 
 
