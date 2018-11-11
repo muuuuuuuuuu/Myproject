@@ -46,7 +46,7 @@ publishDir = "docs"
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "-- SELF INTRODUCTION --"
+		slogan     = "SELF<br>INTRODUCTION"
 		subtitle   = "初めまして！今プログラミングの勉強をしています。主にRubyとrailsの勉強をしています。まだまだ未熟者ですが宜しくお願い致します。"
 
 		# "[Lorem](//google.com)"
@@ -61,7 +61,7 @@ publishDir = "docs"
 
 
 			# [Lorem](//google.com)グーグルに飛べるコード
-		buttonText  = "TOPに戻りますか？もうすこし見て欲しいです☆"
+		buttonText  = "TOP"
 
 
 	# Service section
@@ -88,25 +88,25 @@ publishDir = "docs"
             title = "エディタ"
             description = "Atom"
 
-			  [[params.services.list]]
-            # icon = "fa-heart"
-            title = "インフラ"
-            description = "AWS"
+			  # [[params.services.list]]
+        #     # icon = "fa-heart"
+        #     title = "インフラ"
+        #     description = "AWS"
 
-			  [[params.services.list]]
-            # icon = "fa-heart"
-            title = "データベース"
-            description = "SQLite"
+			  # [[params.services.list]]
+        #     # icon = "fa-heart"
+        #     title = "データベース"
+        #     description = "SQLite"
 
 			  [[params.services.list]]
             # icon = "fa-heart"
             title = "etc.."
-            description = "MacOS,HEROKU,Linux,                                          Qiita,hugo,Word,Excel"
+            description = "MacOS,HEROKU,Linux,AWSs3,SQlite,ターミナル,Qiita,hugo,Word,Excel"
 
 				[[params.services.list]]
             # icon = "fa-heart"
             title = "study"
-            description = "プロゲート(HTML,CSS,Ruby,JS,Ruby on Rails,Python,PHP,Command Line,Git,Sass) ドットインストール(基礎全般) Ruby on Railsチュートリアル yukicoder(星1から2) etc.."
+            description = "プロゲート(HTML,CSS,Ruby,JS,Ruby on Rails,Python,PHP,Command Line,Git,Sass)ドットインストール(基礎全般) Ruby on Railsチュートリアル yukicoder(星1から2) etc.."
 
 
     # Portfolio modals
@@ -133,10 +133,10 @@ publishDir = "docs"
 		phone = ""
 		email = "muuuuu10uuuuu@icloud.com"
 
-		[params.social]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/muuuuuuuuuu7"
+		# [params.social]
+    # icon = "twitter"
+    # icon_pack = "fab"
+    # link = "https://twitter.com/muuuuuuuuuu7"
 
 
 
