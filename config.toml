@@ -61,7 +61,7 @@ publishDir = "docs"
 
 
 			# [Lorem](//google.com)グーグルに飛べるコード
-		buttonText  = "TOP"
+		# buttonText  = "TOP"
 
 
 	# Service section
