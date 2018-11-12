@@ -34,12 +34,12 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "MUUUUUUUUUU P S"
+		brand = "MUUUUUUUUUU PORTFOLIO SITE"
 
 		[params.navigation.links]
 			about     = "PROFILE"
 			services  = "STUDY"
-			portfolio = "EXPERIENCE & OUTPUT"
+			portfolio = "EXPERIENCE"
 			contact   = "Contact"
 
 
