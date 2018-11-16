@@ -4,7 +4,7 @@
 # theme = "creative"
 baseurl = "https://muuuuuuuuuu.github.io/Myproject"
 languageCode = "en-us"
-title = "muuuuuuuuuuのPortfolio Site"
+title = "muuuuuuuuuuのportfolio site"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 publishDir = "docs"
@@ -34,7 +34,7 @@ publishDir = "docs"
 
 	# Navigation
 	[params.navigation]
-		brand = "MUUUUUUUUUU PORTFOLIO SITE"
+		brand = "ムーのポートフォリオサイト"
 
 		[params.navigation.links]
 			about     = "PROFILE"
