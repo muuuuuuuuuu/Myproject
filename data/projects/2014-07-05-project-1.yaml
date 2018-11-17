@@ -1,8 +1,8 @@
 modalID: 1
-title: キングダムコミニティサイト
-date: 2018-11-11
-img: all.jpg
+title: railsチュートリアルのsample.appです。
+date: 2018-10-27
+img: sample.png
 # client: Start Bootstrap
 clientLink: "#"
 category: Web Development
-description: "現在製作中です。<br>https://arcane-ocean-64138.herokuapp.com/<br>キングダムとゆう春秋戦国時代の戦争の漫画が好きで<br>みんなで話あえたらなって思って作っています！<br>フレームワークはRuby on Railsです。"
+description: "https://arcane-ocean-64138.herokuapp.com/<br>載せるか悩みましたがこれからドンドン作って行って<br>過去の痕跡も一つ一つ残して置こうと思い載せました！"
