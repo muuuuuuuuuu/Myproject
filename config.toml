@@ -2,7 +2,7 @@
 # languageCode = "en-us"
 # title = "My New Hugo Site"
 # theme = "creative"
-baseurl = "https://muuuuuuuuuu.github.io/Myproject"
+baseurl = "https://muuuuuuuuuu.github.io/hugo-creative-theme/"
 languageCode = "en-us"
 title = "muuuuuuuuuuのportfolio site"
 theme = "hugo-creative-theme"
@@ -101,7 +101,7 @@ publishDir = "docs"
 			  [[params.services.list]]
             # icon = "fa-heart"
             title = "etc.."
-            description = "MacOS,HEROKU,Linux,AWSs3,SQlite,ターミナル,Qiita,hugo,Word,Excel"
+            description = "MacOS,HEROKU,Linux,AWSs3,SQlite,ターミナル,Qiita,hugo,Word,Excel,Rubyとrailsの書籍で"
 
 				[[params.services.list]]
             # icon = "fa-heart"
